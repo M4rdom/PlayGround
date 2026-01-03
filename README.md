@@ -1,2 +1,2 @@
 # PlayGround
-we all have to begin somewhere.
+we all have to start somewhere.
